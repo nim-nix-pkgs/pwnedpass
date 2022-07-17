@@ -976,11 +976,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1005,11 +1005,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1034,11 +1034,11 @@
       },
       "locked": {
         "dir": "v2_0_1",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1063,11 +1063,11 @@
       },
       "locked": {
         "dir": "v2_0_2",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1092,11 +1092,11 @@
       },
       "locked": {
         "dir": "v2_0_3",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1121,11 +1121,11 @@
       },
       "locked": {
         "dir": "v2_0_4",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1150,11 +1150,11 @@
       },
       "locked": {
         "dir": "v2_0_5",
-        "lastModified": 1658015546,
-        "narHash": "sha256-6iRj/geEs2e5BBbzWw8G7agfYCSWHslw2rccpxhq74A=",
+        "lastModified": 1658018199,
+        "narHash": "sha256-5Hdi6XV5pJRv4ur3VtuaAgxrcagggp7wm3buu7ts+bQ=",
         "owner": "nim-nix-pkgs",
         "repo": "pwnedpass",
-        "rev": "44749eb80435c87674f2e280d86728b54b5c469b",
+        "rev": "2a7524e4f7b2cb6f2d03fafa1beb6c85973b2c08",
         "type": "github"
       },
       "original": {
@@ -1693,11 +1693,11 @@
     "src-pwnedpass-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1656609432,
-        "narHash": "sha256-g+wcVGsN+9FPJoAX3wxXPZmq8g/37pO9wfUGqJA33p8=",
+        "lastModified": 1657372282,
+        "narHash": "sha256-MU+CjKMMMTqbeGi7dozwntru+CE2k6TTjQb0Uc+rQDc=",
         "owner": "foxoman",
         "repo": "pwnedpass",
-        "rev": "1101d71a090fe6e4f268ed69074fe94829d281b7",
+        "rev": "acc80b3671b44e17509bc0603eebabfdcb486578",
         "type": "github"
       },
       "original": {
