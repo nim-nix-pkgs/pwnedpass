@@ -155,7 +155,7 @@
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
         "puppy": "puppy",
-        "src-pwnedpass-master": "src-pwnedpass-master",
+        "src-pwnedpass-v2_0_2": "src-pwnedpass-v2_0_2",
         "termui": "termui"
       }
     },
@@ -227,19 +227,19 @@
         "type": "github"
       }
     },
-    "src-pwnedpass-master": {
+    "src-pwnedpass-v2_0_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1657372282,
-        "narHash": "sha256-MU+CjKMMMTqbeGi7dozwntru+CE2k6TTjQb0Uc+rQDc=",
+        "lastModified": 1657311266,
+        "narHash": "sha256-lTW47d5il+SvTWwfOTaFs2B6h3zX+80pxtb/XEO0+9Y=",
         "owner": "foxoman",
         "repo": "pwnedpass",
-        "rev": "acc80b3671b44e17509bc0603eebabfdcb486578",
+        "rev": "e2d87398309a91e36c29997d0c9017e638d9d5ab",
         "type": "github"
       },
       "original": {
         "owner": "foxoman",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v2.0.2",
         "repo": "pwnedpass",
         "type": "github"
       }
