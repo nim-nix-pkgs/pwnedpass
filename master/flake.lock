@@ -111,8 +111,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-JEYCjAFJQK0JGe2ApyGu/+doxzTraT+g1LP3npXnuBI=",
-        "path": "/nix/store/9rrny83wyfn6vg2znk0mdndhp9dkw32w-source",
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -135,11 +135,11 @@
       },
       "locked": {
         "dir": "1_5_4",
-        "lastModified": 1660264784,
-        "narHash": "sha256-8jjWgj+XfrsXDWchgDo7brpD/Bb55X5LpnXmc8viAE4=",
+        "lastModified": 1660779531,
+        "narHash": "sha256-i5vV7+MaeVG6dQb50aHPl4cRHCC+ScYIaaGw/0bDVt8=",
         "owner": "nim-nix-pkgs",
         "repo": "puppy",
-        "rev": "685af42c125f8f5ab08d7a9e00043cc0bbb1cf27",
+        "rev": "f8365e874bd1b657c8c56d1c4846167518914fc2",
         "type": "github"
       },
       "original": {
@@ -230,11 +230,11 @@
     "src-pwnedpass-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1657372282,
-        "narHash": "sha256-MU+CjKMMMTqbeGi7dozwntru+CE2k6TTjQb0Uc+rQDc=",
+        "lastModified": 1660339279,
+        "narHash": "sha256-5jGGeS3WYO9Y7wzZNqxaeDsVgrSxGYsRN+eeHCpG/Ts=",
         "owner": "foxoman",
         "repo": "pwnedpass",
-        "rev": "acc80b3671b44e17509bc0603eebabfdcb486578",
+        "rev": "8871afa696a2f8d643c177ec54dca04156cb03d7",
         "type": "github"
       },
       "original": {
